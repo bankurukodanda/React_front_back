@@ -5,7 +5,7 @@ let request_headers={
 }
 module.exports = {
     "appName":pckg.name,
-    "port":7070,
+    "port":3001,
     "context": "/samp",
     "endpoint":{
         "/getCites":{
